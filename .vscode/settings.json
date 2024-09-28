@@ -1,0 +1,6 @@
+{
+    "prettier.experimentalTernaries": true,
+    "vs-code-prettier-eslint.prettierLast": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true
+}
